@@ -2,10 +2,10 @@ let nameOfElement;
 nameOfElement = "demo";
 
 // English code
-alert("Howdy! this is a stange place...");
+alert("Howdy! this is a stange place isn't it?");
 console.log("I hope you enjoy learning Javascript!");
 function changeText(){
-  document.getElementById("demo").innerHTML= "This is a bucket"
+  document.getElementById("demo").innerHTML= "ooo what silly secret you'v found here, reload the page to reset it"
 }
 let person = {
   firstName: "Aiden",
